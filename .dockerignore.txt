@@ -1,0 +1,8 @@
+# Ignore the following files and directories
+node_modules
+*.log
+*.tmp
+.git
+.gitignore
+Dockerfile
+docker-compose.yml
